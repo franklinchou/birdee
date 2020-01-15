@@ -1,4 +1,6 @@
 # Birdee
 
-Start jupyter notebook by issuing `jupyter notebook` in the root `birdee/`
-directory.
+Start this project by issuing:
+- `. birdee/bin/activate`
+- `jupyter notebook` in the project root (`birdee/` directory)
+
